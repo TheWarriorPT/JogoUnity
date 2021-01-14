@@ -69,6 +69,7 @@ public class Target : MonoBehaviour
         }
         //waypointIndex++;
         //target = WayPoint.waypoint[waypointIndex];
+        //ola
 
     }
 }
